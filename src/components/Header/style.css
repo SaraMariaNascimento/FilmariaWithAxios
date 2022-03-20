@@ -1,0 +1,24 @@
+.header{
+    display:flex;
+    width:100%;
+    height:60px;
+    justify-content:center;
+    align-items: center;
+    justify-content: space-around;
+    background: rgb(134, 35, 35);
+}
+.logo{ 
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+}
+.favoritos{
+    text-decoration: none;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 6px;
+    padding:10px;
+    font-weight: bold;
+    color:rgb(134, 35, 35);
+}

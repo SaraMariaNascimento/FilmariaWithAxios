@@ -1,0 +1,22 @@
+.emoji{
+    font-size: 30px;
+    
+}
+.errorMessage{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.errorMessage h1{
+    font-size:100px;
+}
+.errorMessage a{
+    text-decoration: none;
+    color: #000;
+}
+.errorMessage a:hover{
+    color: rgb(134, 35, 35);
+    text-decoration:overline;
+    background: rgb(224, 224, 224);
+}
